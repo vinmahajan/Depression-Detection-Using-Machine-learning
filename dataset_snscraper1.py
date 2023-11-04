@@ -42,4 +42,4 @@ positive_tweet_df=pd.DataFrame(positive_tweets, columns=["id","tweet"])
 positive_tweet_df['label']=0
 
 dataset=negative_tweet_df.append(positive_tweet_df)
-dataset.to_csv('tweeets_dataset.csv', index=False)
+dataset.to_csv('datasets/tweets_dataset.csv', index=False)
