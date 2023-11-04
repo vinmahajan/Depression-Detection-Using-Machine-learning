@@ -1,5 +1,5 @@
-# Depression-Detection-Using-Machine-learning-
-(project is under work)
+# Depression-Detection-Using-Machine-learning
+More details on Research paper - https://www.jetir.org/papers/JETIRFX06041.pdf
 
 Aim of  this project is to detect the depression of user using his tweets.
 
